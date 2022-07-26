@@ -1,4 +1,3 @@
-# This repo is for my upcoming session on continous model deployment
-Will update details post the session - In the session
+## This repo contains the files for deployment of an Image Classification Model on the Google Kubernetes Engine.
 
-UPdate to demo in AIEngineering channel
+### This line is written to trigger an automatic build on the cloud.
